@@ -1,4 +1,0 @@
-# prime-vault
-Commit 3
-Date: 2024-07-13T09:37:32Z
-Fix edge case
