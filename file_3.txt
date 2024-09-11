@@ -1,4 +1,0 @@
-# prime-vault
-Commit 4
-Date: 2024-08-02T21:26:44Z
-Refactor helpers
